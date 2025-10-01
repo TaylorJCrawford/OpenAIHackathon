@@ -1,0 +1,8 @@
+{
+  "prompt": "Always answer as concisely as possible and never provide medical advice."
+}
+[
+  { "info": "This is context item 1." },
+  { "info": "This is context item 2." }
+]
+
