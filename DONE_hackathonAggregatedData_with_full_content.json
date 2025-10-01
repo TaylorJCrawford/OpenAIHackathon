@@ -1,0 +1,627 @@
+{
+  "retrievedAt": "2025-10-01T12:46:55.223032Z",
+  "sources": {
+    "sharepoint": {
+      "site": "Corporate Compliance SharePoint",
+      "library": "Charity Regulations NI",
+      "retrievedAt": "2025-10-01T12:42:33.610737Z",
+      "results": [
+        {
+          "fileName": "Set_Up_A_Charity_Steps.txt",
+          "title": "Set up a Charity – Step by Step (UK/NI)",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/set-up-a-charity",
+          "contentPreview": "Check if you qualify… register with the Charity Commission (CCNI)…",
+          "lastModified": "2025-09-29T10:00:00Z",
+          "owner": "Business Analyst",
+          "content": "Set up a Charity – Step by Step (UK / NI) [Stub]\n\nSource: GOV.UK (https://www.gov.uk/set-up-a-charity)\n\n1. Check if you qualify as a charity:\n   - Must have charitable purposes only.\n   - Must benefit the public.\n\n2. Choose trustees:\n   - Minimum of 3 trustees recommended.\n   - Cannot be disqualified individuals.\n\n3. Create a governing document:\n   - E.g. constitution, trust deed, or articles of association.\n\n4. Name your charity:\n   - Must not mislead or be too similar to existing names.\n\n5. Register with the Charity Commission:\n   - In Northern Ireland: Charity Commission for NI (CCNI).\n   - Provide trustee details, governing document, income details.\n\n6. Get a charity number (once approved).\n"
+        },
+        {
+          "fileName": "Trustee_Duties_Summary.txt",
+          "title": "Trustee Duties – Quick Reference",
+          "source": "Charity Commission NI",
+          "url": "https://www.charitycommissionni.org.uk/",
+          "contentPreview": "Act in best interests, manage resources, serious incident reporting…",
+          "lastModified": "2025-09-29T10:10:00Z",
+          "owner": "Business Analyst",
+          "content": "Trustee Duties – Quick Reference (UK / NI) [Stub]\n\nSource: Charity Commission NI guidance\n\nTrustees must:\n- Act only in the charity’s best interests.\n- Manage charity resources responsibly (budgets, controls).\n- Comply with charity law and reporting requirements.\n- Prepare and file annual accounts and reports.\n- Declare and manage conflicts of interest.\n- Ensure safeguarding and data protection policies are followed.\n- Report serious incidents promptly to CCNI.\n\nFailure to comply may lead to investigation or disqualification.\n"
+        },
+        {
+          "fileName": "Annual_Reporting_Requirements.txt",
+          "title": "Annual Reporting & Accounts",
+          "source": "Charity Commission NI",
+          "url": "https://www.charitycommissionni.org.uk/",
+          "contentPreview": "Annual reporting due within 10 months; thresholds for scrutiny…",
+          "lastModified": "2025-09-29T10:20:00Z",
+          "owner": "Business Analyst",
+          "content": "Annual Reporting & Accounts – Charity Commission NI [Stub]\n\n1. All registered charities must report annually.\n2. Requirements depend on income:\n   - Under £250,000: Receipts & Payments accounts may be used.\n   - Over £250,000: Accruals accounts required.\n   - Over £500,000: Accounts must be audited.\n3. Trustees’ Annual Report must be submitted alongside accounts.\n4. Deadline: Within 10 months of financial year end.\n5. Reports are published on the public register for transparency.\n"
+        },
+        {
+          "fileName": "Fundraising_and_Safeguarding.txt",
+          "title": "Fundraising & Safeguarding – Charity Essentials",
+          "source": "Fundraising Regulator / CCNI",
+          "url": "https://www.fundraisingregulator.org.uk/code",
+          "contentPreview": "Legal, open, honest fundraising; safeguarding policy & training…",
+          "lastModified": "2025-09-29T10:30:00Z",
+          "owner": "Business Analyst",
+          "content": "Fundraising & Safeguarding – Charity Essentials [Stub]\n\nFundraising:\n- Must be legal, open, honest, and respectful.\n- Keep accurate records of fundraising income and expenditure.\n- Avoid misleading or pressuring donors.\n- Follow the Code of Fundraising Practice.\n\nSafeguarding:\n- Trustees are accountable for safeguarding policies.\n- Protect children and vulnerable adults from harm.\n- Ensure regular training for staff and volunteers.\n- Review safeguarding policies annually.\n"
+        },
+        {
+          "fileName": "Introduction_Regulation_of_Charities_NI.txt",
+          "title": "Introduction — Regulation of Charities in NI",
+          "source": "Department for Communities",
+          "url": "https://www.communities-ni.gov.uk/topics/regulation-charities",
+          "contentPreview": "Framework from Charities Act (NI) 2008; 2015 regulations; 2022 Act…",
+          "lastModified": "2025-09-29T10:40:00Z",
+          "owner": "Business Analyst",
+          "content": "Introduction — Regulation of Charities in Northern Ireland\n\nUnder laws led by the Department for Communities, charities in Northern Ireland are regulated primarily via:\n- The Charities (Accounts and Reports) Regulations (Northern Ireland) 2015, which took effect 1 January 2016, requiring registered charities to file annual accounts and reports.\n- The Charities Act (Northern Ireland) 2008 (amended later) as the foundation of the legal framework.\n- Successive Commencement Orders and amendment Acts to bring sections into force over time.\n- The Charities Act (Northern Ireland) 2022, which among other things addresses decisions made by the Commission before May 2019.\n\nCharities must comply with financial reporting, public benefit requirements, oversight, and may be subject to investigation or enforcement by the Charity Commission for Northern Ireland.\n"
+        },
+        {
+          "fileName": "Charities_Accounts_and_Reports_Regulations_2015.txt",
+          "title": "Charities (Accounts & Reports) Regulations (NI) 2015",
+          "source": "Department for Communities",
+          "url": "https://www.communities-ni.gov.uk/articles/introduction-regulation-charities-northern-ireland",
+          "contentPreview": "Preparation & submission of accounts; financial years from 2016…",
+          "lastModified": "2025-09-29T10:50:00Z",
+          "owner": "Business Analyst",
+          "content": "Charities (Accounts & Reports) Regulations (NI) 2015 — Summary (Stub)\n\n- These regulations require registered charities in Northern Ireland to prepare and submit accounts and annual reports.\n- They cover group accounts, scrutiny, consistency in accounting treatment.\n- They apply to financial years beginning on or after 1 January 2016.\n- The regulations were introduced alongside the Charities Act (2008) substitution orders to raise thresholds (e.g. accruals vs receipts & payments) from £100,000 to £250,000.\n- Charities must file their reports and accounts with the Charity Commission for Northern Ireland as part of compliance.\n"
+        },
+        {
+          "fileName": "Failed_Appeals_and_Disclaimers_Regulations_NI.txt",
+          "title": "Charity (Failed Appeals & Disclaimers) Regulations (NI) 2013",
+          "source": "Charity Commission NI",
+          "url": "https://www.charitycommissionni.org.uk/about-us/charity-commission-regulations",
+          "contentPreview": "What to do when fundraising appeals fail; donor disclaimers…",
+          "lastModified": "2025-09-29T11:00:00Z",
+          "owner": "Business Analyst",
+          "content": "Charity (Failed Appeals & Disclaimers) Regulations (NI) 2013 — Summary (Stub)\n\n- These regulations allow guidance on what to do when a fundraising appeal does not meet its target.\n- If an appeal fails, trustees may return donations to original donors, or apply to the Commission for a “scheme” to amend the appeal’s purpose.\n- The regulations include a specimen donor disclaimer form to allow donors to disclaim property rights.\n- They took effect 1 July 2013.\n"
+        },
+        {
+          "fileName": "Independent_Review_Charity_Regulation_NI.txt",
+          "title": "Independent Review of Charity Regulation (2021)",
+          "source": "Department for Communities",
+          "url": "https://www.communities-ni.gov.uk/articles/independent-review-charity-regulation",
+          "contentPreview": "Minister-commissioned review; 93 recommendations…",
+          "lastModified": "2025-09-29T11:10:00Z",
+          "owner": "Business Analyst",
+          "content": "Independent Review of Charity Regulation in Northern Ireland — Overview (Stub)\n\n- Commissioned by the Minister for Communities, the Review began 25 January 2021.\n- Its goal: examine how well the Charities Act (NI) 2008, and the roles of the Commission and Department, strike a balance between supporting charities and dealing with misconduct.\n- The Panel made 93 recommendations for improving regulatory delivery and legal framework.\n- At time of stub: The Department is considering responses and planning an Action Plan.\n"
+        },
+        {
+          "fileName": "Public_Benefit_and_Registration_NI.txt",
+          "title": "Public Benefit & Registration in NI",
+          "source": "Charity Commission NI",
+          "url": "https://www.charitycommissionni.org.uk/manage-your-charity/register-your-charity",
+          "contentPreview": "Registration when called forward; public benefit statement…",
+          "lastModified": "2025-09-29T11:20:00Z",
+          "owner": "Business Analyst",
+          "content": "Public Benefit Requirement & Charity Registration in NI — Stub\n\n- The public benefit test in NI was delayed under the Charities Act (Northern Ireland) 2008 due to technical difficulties; it was resolved via the 2013 Act.\n- Every charity in Northern Ireland must register when “called forward” by the Commission; registration is not automatic.\n- To register: must show exclusively charitable purposes, governed by NI law, be independent, and submit supporting documents (governing document, trustee details, income, etc.).\n- Registration support includes trustee declarations, public benefit toolkits, and checklists provided by the Commission.\n- Some decisions by the Commission before 2019 were later made lawful by the 2022 Act.\n"
+        },
+        {
+          "fileName": "CTO_Insights_IT_Infrastructure_Costs.txt",
+          "title": "CTO Insights — Charity IT Infrastructure Costs",
+          "source": "Internal (Executive)",
+          "url": "https://intranet.sharepoint.local/CTO_Insights_IT_Infrastructure_Costs.txt",
+          "contentPreview": "Executive view of recurring and capital IT costs; cloud, security, M365, backups, DR, FinOps…",
+          "lastModified": "2025-10-01T12:46:55.222035Z",
+          "owner": "CTO Office",
+          "content": "CTO Insights — Charity IT Infrastructure Costs [Restricted: CTO]\n\nPurpose\n- Provide an executive view of recurring and capital IT costs for a medium UK/NI charity.\n- Support budgeting, risk reduction, and service reliability decisions.\n\nCost Categories (Opex unless noted)\n1) Cloud hosting (IaaS/PaaS/SaaS)\n   - Prod/non-prod compute, storage, bandwidth, managed DBs, backups, CDN.\n   - Cost drivers: traffic peaks, data egress, reserved instances, storage tiers.\n   - Optimisation: rightsizing, autoscaling, reserved/savings plans, lifecycle policies.\n\n2) Identity & Security\n   - M365/Azure AD licensing, MFA, SSO, conditional access.\n   - Security tooling: EDR, email security, vulnerability mgmt, SIEM/SOAR.\n   - Compliance: backups, retention, encryption key mgmt, audit logging.\n\n3) End‑User Computing\n   - Device procurement (Capex), warranty, MDM/MAM, OS licensing, VDI/DaaS if used.\n   - Accessibility tooling; assistive tech licenses.\n\n4) Collaboration & Data\n   - SharePoint/OneDrive, Teams, Exchange Online, Power BI/analytics licensing.\n   - Data platform: ETL/ELT, warehouse/lake storage, data retention costs.\n\n5) Line‑of‑Business & Fundraising Systems\n   - CRM/donor mgmt (e.g., Dynamics/Salesforce), Gift Aid processing add‑ons.\n   - Payment gateway fees, PCI DSS impacts, consent mgmt (UK GDPR).\n\n6) Business Continuity\n   - Backups (3‑2‑1), DR regions, RPO/RTO testing, incident response retainers.\n\n7) External Services\n   - MSP/outsourcing, support SLAs, project/professional services, training.\n\nBudgeting & KPIs\n- Run‑rate per month; unit costs (per user, per donor, per transaction).\n- Availability SLOs (e.g., 99.9%), MTTR, backup success %, patch compliance.\n- Cloud cost anomaly alerts; forecast vs actual; cost per £1 of donation processed.\n\nRecommendations (12‑month horizon)\n- Adopt tagging & FinOps discipline; quarterly rightsizing.\n- Migrate static content to cold storage; enable CDN & caching.\n- Consolidate security tools; negotiate multi‑year licensing discounts.\n- Implement zero‑trust baseline; enforce least privilege & conditional access.\n- Document DR plan; quarterly restore tests; define Recovery Playbooks.\n\nNotes\n- This document is **restricted** to CTO/CIO and authorised finance leads.\n- Distribution outside the exec group requires approval.\n",
+          "accessControl": {
+            "restricted": true,
+            "allowedRoles": [
+              "CTO",
+              "CIO",
+              "Head of IT",
+              "Finance Director"
+            ],
+            "sensitivityLabel": "Confidential - Exec Only"
+          }
+        }
+      ],
+      "metadata": {
+        "totalFiles": 9,
+        "retrievalMethod": "SharePoint RAG Connector (simulated)"
+      }
+    },
+    "teams": {
+      "team": "Corporate Compliance",
+      "channel": "Charity Compliance NI",
+      "conversations": [
+        {
+          "subject": "Annual Reporting & Accounts",
+          "relatedFile": "Annual_Reporting_Requirements.txt",
+          "messages": [
+            {
+              "id": "msg-001",
+              "timestamp": "2025-09-30T09:05:00Z",
+              "from": "Alice Johnson",
+              "content": "Has everyone reviewed the new 'Annual_Reporting_Requirements.txt'…",
+              "mentions": [
+                "David Lee"
+              ]
+            },
+            {
+              "id": "msg-002",
+              "timestamp": "2025-09-30T09:07:00Z",
+              "from": "David Lee",
+              "content": "I’ll update the compliance tracker… audit threshold this year?",
+              "replyTo": "msg-001"
+            },
+            {
+              "id": "msg-003",
+              "timestamp": "2025-09-30T10:20:00Z",
+              "from": "Sarah McCann",
+              "content": "Uploaded 'Fundraising_and_Safeguarding.txt' for board review."
+            }
+          ],
+          "participants": [
+            "Alice Johnson",
+            "David Lee",
+            "Sarah McCann"
+          ]
+        },
+        {
+          "subject": "Trustee Duties",
+          "relatedFile": "Trustee_Duties_Summary.txt",
+          "messages": [
+            {
+              "id": "msg-101",
+              "timestamp": "2025-09-29T08:45:00Z",
+              "from": "Mark Evans",
+              "content": "Trustees must report serious incidents promptly…",
+              "mentions": [
+                "Sarah McCann"
+              ]
+            },
+            {
+              "id": "msg-102",
+              "timestamp": "2025-09-29T08:47:00Z",
+              "from": "Sarah McCann",
+              "content": "I’ll prepare a reporting flowchart; link it under Trustee Guidance.",
+              "replyTo": "msg-101"
+            },
+            {
+              "id": "msg-103",
+              "timestamp": "2025-09-29T09:10:00Z",
+              "from": "Alice Johnson",
+              "content": "Do we have a conflicts of interest form?",
+              "mentions": [
+                "David Lee"
+              ]
+            },
+            {
+              "id": "msg-104",
+              "timestamp": "2025-09-29T09:14:00Z",
+              "from": "David Lee",
+              "content": "Draft exists; needs 2025 update.",
+              "replyTo": "msg-103"
+            }
+          ],
+          "participants": [
+            "Mark Evans",
+            "Sarah McCann",
+            "Alice Johnson",
+            "David Lee"
+          ]
+        },
+        {
+          "subject": "Public Benefit & Registration",
+          "relatedFile": "Public_Benefit_and_Registration_NI.txt",
+          "messages": [
+            {
+              "id": "msg-201",
+              "timestamp": "2025-09-28T14:05:00Z",
+              "from": "Sarah McCann",
+              "content": "Registration isn’t automatic — apply when called forward?"
+            },
+            {
+              "id": "msg-202",
+              "timestamp": "2025-09-28T14:10:00Z",
+              "from": "David Lee",
+              "content": "Yes — provide trustee details, governing doc, proof of income."
+            },
+            {
+              "id": "msg-203",
+              "timestamp": "2025-09-28T14:15:00Z",
+              "from": "Alice Johnson",
+              "content": "Include a clear public benefit statement."
+            },
+            {
+              "id": "msg-204",
+              "timestamp": "2025-09-28T14:22:00Z",
+              "from": "Mark Evans",
+              "content": "I’ll draft the public benefit statement."
+            }
+          ],
+          "participants": [
+            "Sarah McCann",
+            "David Lee",
+            "Alice Johnson",
+            "Mark Evans"
+          ]
+        },
+        {
+          "subject": "Gift Aid Compliance",
+          "relatedFile": "Gift_Aid_Guidance.txt",
+          "messages": [
+            {
+              "id": "msg-301",
+              "timestamp": "2025-09-27T11:00:00Z",
+              "from": "Alice Johnson",
+              "content": "Need valid Gift Aid declarations before claims."
+            },
+            {
+              "id": "msg-302",
+              "timestamp": "2025-09-27T11:05:00Z",
+              "from": "Mark Evans",
+              "content": "Retain declarations for 6 years for HMRC."
+            },
+            {
+              "id": "msg-303",
+              "timestamp": "2025-09-27T11:15:00Z",
+              "from": "Sarah McCann",
+              "content": "I’ll check our donation form wording."
+            },
+            {
+              "id": "msg-304",
+              "timestamp": "2025-09-27T11:20:00Z",
+              "from": "David Lee",
+              "content": "Let’s test finance system matching."
+            }
+          ],
+          "participants": [
+            "Alice Johnson",
+            "Mark Evans",
+            "Sarah McCann",
+            "David Lee"
+          ]
+        }
+      ],
+      "metadata": {
+        "totalConversations": 4,
+        "totalMessages": 15
+      }
+    },
+    "twitter": {
+      "data": [
+        {
+          "id": "180001",
+          "text": "Reminder: Charities in Northern Ireland must file annual reports within 10 months of their financial year end. #CharityCompliance",
+          "created_at": "2025-09-29T09:15:00Z",
+          "author_id": "1001",
+          "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 2,
+            "like_count": 15,
+            "quote_count": 1
+          }
+        },
+        {
+          "id": "180002",
+          "text": "Trustees should declare conflicts of interest annually – it’s a key duty under CCNI guidance. #Governance",
+          "created_at": "2025-09-29T10:00:00Z",
+          "author_id": "1002",
+          "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+          }
+        },
+        {
+          "id": "180003",
+          "text": "Gift Aid tip: Keep donor declarations for 6 years – HMRC can review your claims anytime. #CharityFinance",
+          "created_at": "2025-09-28T12:30:00Z",
+          "author_id": "1003",
+          "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 22,
+            "quote_count": 2
+          }
+        },
+        {
+          "id": "180004",
+          "text": "Every charity must demonstrate public benefit to be registered in Northern Ireland. Check your statement is clear and robust.",
+          "created_at": "2025-09-27T08:50:00Z",
+          "author_id": "1001",
+          "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+          }
+        },
+        {
+          "id": "180005",
+          "text": "Looking forward to our fundraising gala this weekend in Belfast 🎉 All proceeds go to local children’s charities. #CharityEvent",
+          "created_at": "2025-09-26T18:00:00Z",
+          "author_id": "2001",
+          "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 3,
+            "like_count": 56,
+            "quote_count": 1
+          }
+        },
+        {
+          "id": "180006",
+          "text": "Proud to announce we raised £50,000 in our marathon fundraiser 🏃‍♂️💜 Thanks to everyone who supported! #CharityRun",
+          "created_at": "2025-09-25T20:10:00Z",
+          "author_id": "2002",
+          "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 5,
+            "like_count": 102,
+            "quote_count": 3
+          }
+        },
+        {
+          "id": "180007",
+          "text": "October is Breast Cancer Awareness Month 🎗️ Support research by donating to your local charity. #Charity #Awareness",
+          "created_at": "2025-09-24T07:45:00Z",
+          "author_id": "2003",
+          "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 4,
+            "like_count": 150,
+            "quote_count": 6
+          }
+        }
+      ],
+      "includes": {
+        "users": [
+          {
+            "id": "1001",
+            "name": "Charity Compliance NI",
+            "username": "ComplianceNI"
+          },
+          {
+            "id": "1002",
+            "name": "Gov Legal Advisor",
+            "username": "LegalGovNI"
+          },
+          {
+            "id": "1003",
+            "name": "Charity Finance Hub",
+            "username": "CharityFinance"
+          },
+          {
+            "id": "2001",
+            "name": "Belfast Gala",
+            "username": "BelfastCharity"
+          },
+          {
+            "id": "2002",
+            "name": "Marathon for Good",
+            "username": "CharityRunUK"
+          },
+          {
+            "id": "2003",
+            "name": "Awareness UK",
+            "username": "AwarenessCharity"
+          }
+        ]
+      },
+      "metadata": {
+        "totalTweets": 7,
+        "source": "Twitter API v2 (simulated)"
+      }
+    },
+    "linkedin": {
+      "elements": [
+        {
+          "id": "urn:li:share:900001",
+          "created": "2025-09-29T09:30:00Z",
+          "author": "urn:li:organization:11223344",
+          "text": {
+            "text": "NI charities: remember your annual report and accounts are due within 10 months of year end. Keep your trustee report aligned with CCNI guidance."
+          },
+          "content": {
+            "contentEntities": [
+              {
+                "entityLocation": "https://intranet.sharepoint.local/Annual_Reporting_Requirements.txt"
+              }
+            ]
+          },
+          "visibility": "PUBLIC",
+          "likesSummary": {
+            "totalLikes": 38
+          },
+          "commentsSummary": {
+            "totalComments": 6
+          },
+          "shareStatistics": {
+            "shareCount": 4,
+            "impressionCount": 1200
+          },
+          "topics": [
+            "#CharityCompliance",
+            "#NorthernIreland"
+          ]
+        },
+        {
+          "id": "urn:li:ugcPost:900002",
+          "created": "2025-09-28T11:05:00Z",
+          "author": "urn:li:person:abc123",
+          "text": {
+            "text": "Trustee duties refresher: act in the charity’s best interests, manage resources responsibly, and report serious incidents promptly to CCNI."
+          },
+          "content": {
+            "contentEntities": [
+              {
+                "entityLocation": "https://intranet.sharepoint.local/Trustee_Duties_Summary.txt"
+              }
+            ]
+          },
+          "visibility": "CONNECTIONS",
+          "likesSummary": {
+            "totalLikes": 21
+          },
+          "commentsSummary": {
+            "totalComments": 3
+          },
+          "shareStatistics": {
+            "shareCount": 1,
+            "impressionCount": 640
+          },
+          "topics": [
+            "#Governance",
+            "#Trustees"
+          ]
+        },
+        {
+          "id": "urn:li:share:900003",
+          "created": "2025-09-27T08:20:00Z",
+          "author": "urn:li:organization:99887766",
+          "text": {
+            "text": "Gift Aid tip: keep donor declarations for at least 6 years and ensure wording meets HMRC standards before claiming."
+          },
+          "content": {
+            "contentEntities": [
+              {
+                "entityLocation": "https://intranet.sharepoint.local/Gift_Aid_Guidance.txt"
+              }
+            ]
+          },
+          "visibility": "PUBLIC",
+          "likesSummary": {
+            "totalLikes": 57
+          },
+          "commentsSummary": {
+            "totalComments": 9
+          },
+          "shareStatistics": {
+            "shareCount": 7,
+            "impressionCount": 3100
+          },
+          "topics": [
+            "#CharityFinance",
+            "#GiftAid"
+          ]
+        },
+        {
+          "id": "urn:li:share:900004",
+          "created": "2025-09-26T17:40:00Z",
+          "author": "urn:li:organization:55443322",
+          "text": {
+            "text": "Belfast Autumn Fundraiser announced! Join us 19 Oct to support local youth programmes 🎉"
+          },
+          "content": {
+            "contentEntities": [
+              {
+                "entityLocation": "https://events.example.org/belfast-fundraiser"
+              }
+            ]
+          },
+          "visibility": "PUBLIC",
+          "likesSummary": {
+            "totalLikes": 143
+          },
+          "commentsSummary": {
+            "totalComments": 12
+          },
+          "shareStatistics": {
+            "shareCount": 22,
+            "impressionCount": 9800
+          },
+          "topics": [
+            "#CharityEvent",
+            "#Belfast"
+          ]
+        },
+        {
+          "id": "urn:li:ugcPost:900005",
+          "created": "2025-09-25T12:10:00Z",
+          "author": "urn:li:person:def456",
+          "text": {
+            "text": "Huge thanks to our volunteers who packed 2,000 meals this week 🙌 #CommunityImpact"
+          },
+          "content": {
+            "contentEntities": []
+          },
+          "visibility": "PUBLIC",
+          "likesSummary": {
+            "totalLikes": 320
+          },
+          "commentsSummary": {
+            "totalComments": 34
+          },
+          "shareStatistics": {
+            "shareCount": 18,
+            "impressionCount": 15200
+          },
+          "topics": [
+            "#Volunteering",
+            "#Community"
+          ]
+        },
+        {
+          "id": "urn:li:share:900006",
+          "created": "2025-09-24T07:55:00Z",
+          "author": "urn:li:organization:66778899",
+          "text": {
+            "text": "October is Breast Cancer Awareness Month. Donate or join a local walk to support research and care 🎗️"
+          },
+          "content": {
+            "contentEntities": []
+          },
+          "visibility": "PUBLIC",
+          "likesSummary": {
+            "totalLikes": 512
+          },
+          "commentsSummary": {
+            "totalComments": 61
+          },
+          "shareStatistics": {
+            "shareCount": 45,
+            "impressionCount": 40200
+          },
+          "topics": [
+            "#Awareness",
+            "#Nonprofit"
+          ]
+        }
+      ],
+      "includes": {
+        "organizations": [
+          {
+            "urn": "urn:li:organization:11223344",
+            "localizedName": "Compliance Hub NI"
+          },
+          {
+            "urn": "urn:li:organization:99887766",
+            "localizedName": "Charity Finance Hub"
+          },
+          {
+            "urn": "urn:li:organization:55443322",
+            "localizedName": "Belfast Youth Fund"
+          },
+          {
+            "urn": "urn:li:organization:66778899",
+            "localizedName": "Health Research UK"
+          }
+        ],
+        "people": [
+          {
+            "urn": "urn:li:person:abc123",
+            "firstName": "Sarah",
+            "lastName": "McCann"
+          },
+          {
+            "urn": "urn:li:person:def456",
+            "firstName": "Mark",
+            "lastName": "Evans"
+          }
+        ]
+      },
+      "metadata": {
+        "totalPosts": 6,
+        "source": "LinkedIn API (simulated)"
+      }
+    }
+  },
+  "meta": {
+    "indexingHint": "Index each collection separately; preserve IDs and accessControl for enforcement.",
+    "schemaVersion": "1.1-demo"
+  }
+}
